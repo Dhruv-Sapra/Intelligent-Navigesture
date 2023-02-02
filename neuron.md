@@ -76,4 +76,10 @@ Devansh Joshi:    devanshjoshi39@gmail.com
 Ketaki Deshmukh:  ketaki.deshmukh2010@gmail.com
 
 
+
 ## 📱Screenshots
+![image 1](https://user-images.githubusercontent.com/111555972/216401035-0a0b97ba-e3dd-4e6b-a8cc-9b44762181b9.png)
+
+![WhatsApp Image 2023-02-02 at 23 03 01](https://user-images.githubusercontent.com/111555972/216400905-0cb63b36-e324-4093-bde0-1d76127ccc18.jpeg)
+
+![WhatsApp Image 2023-02-02 at 23 03 01 (1)](https://user-images.githubusercontent.com/111555972/216400813-3df1e750-8140-4b11-abba-ab6885c88bbf.jpeg)
