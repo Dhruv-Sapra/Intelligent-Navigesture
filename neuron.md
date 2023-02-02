@@ -25,8 +25,15 @@ Deep Learning :
 
 
 ## 📈Progress
+1) Gesture based mouse control is working with functionalities - left click, right click , scroll , drag and drop
+2) Volumn control via gestures is also working
+3) A webmodule is added that can open a website using gestures
+4) A ping pong can be played in real-time using gestures by two people.
 
 ## 🔮Future Scope
+1) Current code only uses cpu to function. Trying to find ways to use gpu power to get better results
+2) Building and training a model that can train on user-inputed gestures and control the operating system based on those gestures.
+
 
 ## 💸Applications
 Hand tracking can be used as an alternative input method for controlling a mouse on a computer. Here are some potential usage scenarios for hand tracking in this context:
@@ -38,8 +45,21 @@ Hand tracking can be used as an alternative input method for controlling a mouse
 5.	Presentations: In presentations, hand tracking can be used to interact with slides, providing a more dynamic and engaging experience for the audience.
 
 ## 🛠Project Setup
+As of today(02/02/2023), Mediapipe and Pyautogui is not supported for python version 3.11.1
+
+Install a lower python version in your system to install these libraries 
+1) Python 3.8.10 :- https://www.python.org/downloads/release/python-3810/
+
+
+Install following libraries by running following code in your terminal :
+1) Mediapipe :- pip install mediapipe
+2) Pyautogui :- pip install pyautogui
+3) Pycaw     :- pip install pycaw
+4) Numpy     :- pip install numpy
+5) Opencv    :- pip install opencv-python
 
 ## 💻Usage
+Clone this repository and run the code using any IDE.
 
 ## 👨‍💻Team Members
 Sahil Dhillon:     659sahil@gmail.com
