@@ -36,15 +36,6 @@ Deep Learning :
 2) Building and training a model that can train on user-inputed gestures and control the operating system based on those gestures.
 
 
-## 💸Applications
-Hand tracking can be used as an alternative input method for controlling a mouse on a computer. Here are some potential usage scenarios for hand tracking in this context:
-
-1.	Virtual and Augmented Reality: Hand tracking will likely play a larger role in the development of virtual and augmented reality technologies, providing users with     more intuitive and natural ways to interact with virtual objects and environments.
-2.	Accessibility: Hand tracking can provide a more accessible option for individuals with disabilities that make it difficult to use a traditional mouse.
-3.	Gaming: In gaming, hand tracking can provide a more immersive experience by allowing players to control the game using hand gestures.
-4.	Health-Care: Can be use in an environment where it is not viable to physical touch is needed to operate machines , for example- surgery.
-5.	Presentations: In presentations, hand tracking can be used to interact with slides, providing a more dynamic and engaging experience for the audience.
-
 ## 🛠Project Setup
 As of today(02/02/2023), Mediapipe and Pyautogui is not supported for python version 3.11.1
 
