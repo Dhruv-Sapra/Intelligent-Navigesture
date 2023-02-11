@@ -6,7 +6,7 @@ from pathlib import Path
 puckPos = [100, 100]
 speedX = 5
 speedY = 5
-gameOver = False
+gameOver = False 
 score = [0, 0]
 
 
